@@ -67,6 +67,9 @@
   border: none;
   font-size: 20px;
 }
+.todos__single--text {
+  outline: none;
+}
 
 .icon {
   margin-left: 10px;
